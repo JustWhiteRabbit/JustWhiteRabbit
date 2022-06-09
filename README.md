@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JustWhiteRabbit
-- 👀 I’m interested in becoming a web developer
+Learning to code (full stack)
 
 <!---
-JustWhiteRabbit/JustWhiteRabbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+talihaq/taliha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
